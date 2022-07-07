@@ -13,7 +13,7 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting finding
 
-#In this project, we are required to do
+# In this project, we are required to do
 
 Exploratory Data Analysis
 
